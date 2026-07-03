@@ -1,7 +1,6 @@
 
-## `00_project/engine_template.md`
+## 00_project/engine_template.md
 
-```markdown
 # Engine Template
 
 # Engine XX — Name
