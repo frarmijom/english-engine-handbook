@@ -374,6 +374,72 @@ traffic
 knowledge
 ```
 
+
+---
+
+# Quick Reference
+
+The following tables summarize the most common ways to express quantity with uncountable nouns.
+
+Use them as a quick reference whenever you are unsure.
+
+---
+
+# Master Table — Everyday English
+
+| Noun | Some | A Little | A Lot of | Enough | Too Much | Not Much | Counting Unit |
+|------|------|----------|----------|--------|----------|----------|---------------|
+| water | some water | a little water | a lot of water | enough water | too much water | not much water | glasses / bottles / liters |
+| coffee | some coffee | a little coffee | a lot of coffee | enough coffee | too much coffee | not much coffee | cups of coffee |
+| milk | some milk | a little milk | a lot of milk | enough milk | too much milk | not much milk | bottles / liters |
+| bread | some bread | a little bread | a lot of bread | enough bread | too much bread | not much bread | slices / loaves |
+| rice | some rice | a little rice | a lot of rice | enough rice | too much rice | not much rice | bowls / kilos |
+| money | some money | a little money | a lot of money | enough money | too much money | not much money | dollars / pesos / euros |
+| furniture | some furniture | a little furniture | a lot of furniture | enough furniture | too much furniture | not much furniture | pieces of furniture |
+| luggage | some luggage | a little luggage | a lot of luggage | enough luggage | too much luggage | not much luggage | bags / suitcases |
+| homework | some homework | a little homework | a lot of homework | enough homework | too much homework | not much homework | assignments |
+| weather | some good weather | a little good weather | a lot of sunshine | enough sunshine | too much rain | not much wind | — |
+| traffic | some traffic | a little traffic | a lot of traffic | enough traffic | too much traffic | not much traffic | vehicles (context) |
+| food | some food | a little food | a lot of food | enough food | too much food | not much food | meals / portions |
+| music | some music | a little music | a lot of music | enough music | too much music | not much music | songs |
+| news | some news | a little news | a lot of news | enough news | too much news | not much news | news stories |
+| advice | some advice | a little advice | a lot of advice | enough advice | too much advice | not much advice | pieces of advice |
+| information | some information | a little information | a lot of information | enough information | too much information | not much information | pieces of information |
+
+---
+
+# Master Table — Engineering English
+
+| Noun | Some | A Little | A Lot of | Enough | Too Much | Not Much | Counting Unit |
+|------|------|----------|----------|--------|----------|----------|---------------|
+| information | some information | a little information | a lot of information | enough information | too much information | not much information | pieces of information |
+| documentation | some documentation | a little documentation | a lot of documentation | enough documentation | too much documentation | not much documentation | documents |
+| software | some software | a little software | a lot of software | enough software | too much software | not much software | software packages / programs |
+| hardware | some hardware | a little hardware | a lot of hardware | enough hardware | too much hardware | not much hardware | devices / components |
+| equipment | some equipment | a little equipment | a lot of equipment | enough equipment | too much equipment | not much equipment | pieces of equipment |
+| data | some data | a little data | a lot of data | enough data | too much data | not much data | data points / records |
+| network traffic | some network traffic | a little network traffic | a lot of network traffic | enough network traffic | too much network traffic | not much network traffic | packets / requests |
+| bandwidth | some bandwidth | a little bandwidth | a lot of bandwidth | enough bandwidth | too much bandwidth | not much bandwidth | Mbps / Gbps |
+| storage | some storage | a little storage | a lot of storage | enough storage | too much storage | not much storage | GB / TB |
+| memory | some memory | a little memory | a lot of memory | enough memory | too much memory | not much memory | GB |
+| experience | some experience | a little experience | a lot of experience | enough experience | too much experience | not much experience | years of experience |
+| knowledge | some knowledge | a little knowledge | a lot of knowledge | enough knowledge | too much knowledge | not much knowledge | areas of knowledge |
+| research | some research | a little research | a lot of research | enough research | too much research | not much research | research projects / studies |
+| evidence | some evidence | a little evidence | a lot of evidence | enough evidence | too much evidence | not much evidence | pieces of evidence |
+| feedback | some feedback | a little feedback | a lot of feedback | enough feedback | too much feedback | not much feedback | pieces of feedback |
+| support | some support | a little support | a lot of support | enough support | too much support | not much support | support cases |
+| maintenance | some maintenance | a little maintenance | a lot of maintenance | enough maintenance | too much maintenance | not much maintenance | maintenance tasks |
+| automation | some automation | a little automation | a lot of automation | enough automation | too much automation | not much automation | scripts / workflows |
+| monitoring | some monitoring | a little monitoring | a lot of monitoring | enough monitoring | too much monitoring | not much monitoring | monitoring systems |
+| security | some security | a little security | a lot of security | enough security | too much security | not much security | security controls |
+| code | some code | a little code | a lot of code | enough code | too much code | not much code | lines of code / modules |
+| work | some work | a little work | a lot of work | enough work | too much work | not much work | tasks |
+| progress | some progress | a little progress | a lot of progress | enough progress | too much progress | not much progress | milestones |
+| lubricant | some lubricant | a little lubricant | a lot of lubricant | enough lubricant | too much lubricant | not much lubricant | bottles / tubes / liters |
+| fuel | some fuel | a little fuel | a lot of fuel | enough fuel | too much fuel | not much fuel | liters / gallons |
+| electricity | some electricity | a little electricity | a lot of electricity | enough electricity | too much electricity | not much electricity | kWh |
+
+
 ---
 
 # Engine Law
